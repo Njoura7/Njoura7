@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aziz Najjar
-- 👀 I’m interested in Learning Web developement
-- 🌱 I’m currently learning HTML/CSS/JS
+- 👀 I am a web developer
+- 🌱 Skills: Python,(HTML,CSS,JS), C#
 - 💞️ I’m looking to collaborate on any project related to Web developement
 - 📫 How to reach me 
 Facebook: :seedling:  https://www.facebook.com/medaziznajjar99
