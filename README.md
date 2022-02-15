@@ -1,5 +1,5 @@
 # Hello
-- 👋 Hi, I’m Aziz Najjar
+- 👋 My name is Aziz Najjar
 - 👀 I am a web developer
 - 🌱 Skills: Python,(HTML,CSS,JS), C#
 - 💞️ I’m looking to collaborate on any project related to Web developement
