@@ -2,7 +2,7 @@
 - 👋 My name is Aziz Najjar
 - 👀 I am a web developer
 - 🌱 Skills: Python,(HTML,CSS,JS), C#
-- 💞️ I’m looking to collaborate on any project related to Web developement
+- 💞️Hobbies:Tennis, Volley-ball, Ping pong,  solving the rubki's cube, theatre and writing
 - 📫 How to reach me 
 Facebook: :seedling:  https://www.facebook.com/medaziznajjar99
 Linkedin: :seedling:  https://www.linkedin.com/in/aziz-najjar-400672200/
