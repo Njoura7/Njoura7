@@ -4,10 +4,10 @@
 - 🌱 Skills: Python,(HTML,CSS,JS), C#
 - 💞️Hobbies:Tennis, Volley-ball, Ping pong,  solving the rubki's cube, theatre and writing
 - 📫 How to reach me 
-- [Facebook](https://www.facebook.com/medaziznajjar99)
+- :seedling: [Facebook](https://www.facebook.com/medaziznajjar99)
 - [FireShot](https://getfireshot.com/)
 :   
-Linkedin: :seedling:  https://www.linkedin.com/in/aziz-najjar-400672200/
+Linkedin:   https://www.linkedin.com/in/aziz-najjar-400672200/
 
 
 
