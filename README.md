@@ -16,6 +16,8 @@
  
  👯 I’m looking for web development internships or part-time jobs.
  
+---
+
 ### You can find in me in the web 🌍
 [<img align="left" alt="njoura github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
@@ -23,6 +25,7 @@
 [<img align="left" alt="njoura LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
+---
 
 
 ![Profile views](https://gpvc.arturio.dev/Njoura7)  <img src="https://img.shields.io/github/followers/Njoura7?label=Follow" style=" float:left, margin-right:10px" />
