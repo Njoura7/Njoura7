@@ -1,5 +1,5 @@
 # Hello_world
-### Hey Sourav here 👋
+### Hey Aziz here 👋
 
 ---
 
@@ -9,17 +9,15 @@
 
 I am a Web developer and a software engineer passionate about creating friendly UI for users using the latest technologies and building strong databases that handle their need, I am also enthusiastic about web animations since I beleve that it's the future of the web!! . :wink:
  
- 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
+ 🔭 I’m planning for a Project **pingMeetPong(platform that allows ping pong players to meet up)**.
  
  🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
  
  :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
- 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
+ 👯 I’m looking for web development internships or part-time jobs **Doc App**.
  
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
- 
- 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
+
 
 
 ![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
@@ -55,7 +53,7 @@ I am a Web developer and a software engineer passionate about creating friendly 
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
-
+hellooooooooooooo
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
 
 ---
