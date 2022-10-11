@@ -62,11 +62,10 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="Souarvdey777" width="22px" src="https://github.com/Njoura7" />][website]
+[<img align="left" alt="njoura github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Aziz Najjar | LinkedIn" width="22px" src="https://www.linkedin.com/in/anas-mohamed-aziz-najjar-400672200/" />][linkedin]
-[<img align="left" alt="Aziz Najjar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="njoura Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="njoura LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
 
@@ -84,8 +83,7 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 
 :star: From [Souravdey777](https://github.com/Souravdey777)
 
-[website]: https://souravdey777.github.io/Portfolio/
-[twitter]: https://twitter.com/Souravdey777
-[youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/souravdey777/
-[linkedin]: https://www.linkedin.com/in/sourav-dey/
+[website]: https://github.com/Njoura7
+[twitter]: https://twitter.com/Njoura7
+[instagram]: https://www.instagram.com/web.dev_njoura/
+[linkedin]:https://www.linkedin.com/in/anas-mohamed-aziz-najjar-400672200/
