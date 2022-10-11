@@ -52,8 +52,7 @@ I am a Web developer and a software engineer passionate about creating friendly 
 
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Njoura7&theme=radical)
-hellooooooooooooo
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
+
 
 ---
 
