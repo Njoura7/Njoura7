@@ -25,10 +25,11 @@
 [<img align="left" alt="njoura LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
+
 ---
 
 
-![Profile views](https://gpvc.arturio.dev/Njoura7)  <img src="https://img.shields.io/github/followers/Njoura7?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/Njoura7)  <img src="https://img.shields.io/github/following/Njoura7?label=Follow" style=" float:left, margin-right:10px" />
 
 
 ---
