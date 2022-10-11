@@ -14,7 +14,7 @@
  
  :books: I am currently learning <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png?fm=webp" height="42" width="72">
  
- 👯 I’m looking for web development internships or part-time jobs **Doc App**.
+ 👯 I’m looking for web development internships or part-time jobs.
  
 
 
@@ -47,7 +47,7 @@
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
 ### Other Languages I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 	<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 	<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Njoura7&theme=radical)
