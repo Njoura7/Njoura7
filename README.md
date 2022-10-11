@@ -64,6 +64,7 @@
 
 ---
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Njoura7&layout=compact&theme=radical" />
 
 
 
