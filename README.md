@@ -9,11 +9,11 @@
 
 I am a Web developer and a software engineer passionate about creating friendly UI for users using the latest technologies and building strong databases that handle their need, I am also enthusiastic about web animations since I beleve that it's the future of the web!! . :wink:
  
- 🔭 I’m planning for a Project **pingMeetPong(platform that allows ping pong players to meet up)**.
+ 🔭 I’m planning for a Project **pingMeetPong**(platform that allows ping pong players to meet up).
  
  🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
  
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png?fm=webp" height="42" width="42">
+ :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png?fm=webp" height="42" width="72">
  
  👯 I’m looking for web development internships or part-time jobs **Doc App**.
  
