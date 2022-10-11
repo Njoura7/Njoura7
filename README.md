@@ -13,7 +13,7 @@ I am a Web developer and a software engineer passionate about creating friendly 
  
  🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
  
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png?fm=webp"/>
+ :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png?fm=webp"/ height="42" width="42">
  
  👯 I’m looking for web development internships or part-time jobs **Doc App**.
  
