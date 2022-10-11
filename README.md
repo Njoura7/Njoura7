@@ -29,7 +29,7 @@
 ---
 
 
-![Profile views](https://gpvc.arturio.dev/Njoura7) <img src="/github/watchers/Njoura7/:repo?label=Watch"> <img src="https://img.shields.io/github/followers/Njoura7?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/Njoura7) <img src="https://img.shields.io/twitter/follow/Njoura7"> <img src="https://img.shields.io/github/followers/Njoura7?label=Follow" style=" float:left, margin-right:10px" />
 
 
 ---
