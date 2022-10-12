@@ -1,5 +1,5 @@
 # Hello_world
-### Hey Aziz here 👋
+### Hey <Aziz/> here 👋
 
 ---
 
@@ -7,7 +7,7 @@
 <!--   comment -->
 </p>
 
-## I am a Web developer and a software engineer passionate about creating friendly UI for users using the latest technologies and building strong databases that handle their needs, I am also enthusiastic about web animations since I believe that it's the future of the web!! . :wink:
+## I am a {software engineer} and a <Web developer/>, passionate about creating friendly UI for users using the latest technologies and building strong databases that handle their needs, I am also enthusiastic about web animations since I believe that it's the future of the web!! . :wink:
  
  🔭 I’m planning for a Project **pingMeetPong**(platform that allows ping pong players to meet up).
 
@@ -39,8 +39,8 @@
 ### Tech & Tools Preference
 
 <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
