@@ -25,7 +25,11 @@
 [<img align="left" alt="njoura LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
-
+<!-- Links: -->
+[website]: https://github.com/Njoura7
+[twitter]: https://twitter.com/Njoura7
+[instagram]: https://www.instagram.com/web.dev_njoura/
+[linkedin]:https://www.linkedin.com/in/anas-mohamed-aziz-najjar-400672200/
 ---
 
 
@@ -59,29 +63,21 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 	<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Njoura7&theme=radical)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Njoura7&theme=radical)
 
 ---
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Njoura7&layout=compact&theme=radical" />
-
-
-
 
 ---
 ### You can checkout my blogs :loudspeaker: 
 
 [![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
 
-
-
 ---
 
 
 
 
-[website]: https://github.com/Njoura7
-[twitter]: https://twitter.com/Njoura7
-[instagram]: https://www.instagram.com/web.dev_njoura/
-[linkedin]:https://www.linkedin.com/in/anas-mohamed-aziz-najjar-400672200/
+
