@@ -26,10 +26,7 @@
 
 <br/>
 <!-- Links: -->
-[website]: https://github.com/Njoura7
-[twitter]: https://twitter.com/Njoura7
-[instagram]: https://www.instagram.com/web.dev_njoura/
-[linkedin]:https://www.linkedin.com/in/anas-mohamed-aziz-najjar-400672200/
+
 ---
 
 
@@ -79,5 +76,8 @@
 
 
 
-
+[website]: https://github.com/Njoura7
+[twitter]: https://twitter.com/Njoura7
+[instagram]: https://www.instagram.com/web.dev_njoura/
+[linkedin]:https://www.linkedin.com/in/anas-mohamed-aziz-najjar-400672200/
 
