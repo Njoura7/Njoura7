@@ -80,7 +80,6 @@
 
 
 
-:star: From [Souravdey777](https://github.com/Souravdey777)
 
 [website]: https://github.com/Njoura7
 [twitter]: https://twitter.com/Njoura7
