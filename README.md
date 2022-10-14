@@ -4,7 +4,7 @@
 ---
 
 
-(profile_banner.png)
+![profileBanner!](profile_banner.png)
 
 
 ## I am a {software engineer} and a < Web developer />, passionate about creating friendly UI for users using the latest technologies and building strong databases that handle their needs, I am also enthusiastic about web animations since I believe that it's the future of the web!! . :wink:
