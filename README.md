@@ -4,7 +4,7 @@
 ---
 
 
-![profileBanner!](mockrocket-export.gif)
+![profileBanner!](profile_banner.png)
 
 
 
