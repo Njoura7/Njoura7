@@ -66,10 +66,11 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Njoura7&layout=compact&theme=radical" />
 
 ---
+/*
 ### You can checkout my blogs :loudspeaker: 
 
 [![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
-
+*/
 ---
 
 
