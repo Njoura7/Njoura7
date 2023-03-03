@@ -59,7 +59,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Njoura7&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Njoura7&show_icons=true&theme=transparent)
 
 ---
 
