@@ -63,7 +63,7 @@
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Njoura7&layout=compact&theme=radical" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Njoura7&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <!---
