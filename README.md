@@ -4,7 +4,7 @@
 ---
 
 
-![profileBanner!](profile _banner.png)
+![profileBanner!](profile_banner.png)
 
 
 
