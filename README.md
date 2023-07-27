@@ -19,7 +19,7 @@
  
 ---
 
-### You can find in me in the web 🌍
+### You can find me in the web 🌍
 [<img align="left" alt="njoura github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [<img align="left" alt="njoura Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -77,7 +77,7 @@
 
 
 
-[website]: https://github.com/Njoura7
+[website]: https://njourawebdev.netlify.app/
 [twitter]: https://twitter.com/Njoura7
 [instagram]: https://www.instagram.com/web.dev_njoura/
 [linkedin]:https://www.linkedin.com/in/anas-mohamed-aziz-najjar-400672200/
