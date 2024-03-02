@@ -13,9 +13,9 @@
  🔭 I’m planning for a Project **pingMeetPong**(platform that allows ping pong players to meet up).
 
  
- :books: I am currently learning <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> and <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ :books: I am currently learning data engineering and big data concepts
  
- 👯 I’m looking for web development internships or part-time jobs.
+
  
 ---
 
