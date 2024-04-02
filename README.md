@@ -3,10 +3,7 @@
 
 ---
 
-
-![profileBanner!](profile_banner.png)
-
-
+![profileBanner!]
 
 ## I am a {software engineer} and a < Web developer />, passionate about creating friendly UI for users using the latest technologies and building strong databases that handle their needs, I am also enthusiastic about web animations since I believe that it's the future of the web!! . :wink:
  
@@ -15,7 +12,6 @@
  
  :books: I am currently learning data engineering and big data concepts
  
-
  
 ---
 
@@ -33,9 +29,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/Njoura7)  <img src="https://img.shields.io/github/followers/Njoura7?label=Follow" style=" float:left, margin-right:10px" />
 
-
 ---
-
 
 ### Tech & Tools Preference
 
