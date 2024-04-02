@@ -5,7 +5,7 @@
 
 ![profileBanner!]
 
-## I am a {software engineer} and a < Web developer />, passionate about creating friendly UI for users using the latest technologies and building strong databases that handle their needs, I am also enthusiastic about web animations since I believe that it's the future of the web!! . :wink:
+## I am a {software engineer} and a < Web developer />, passionate about creating friendly UI for users using the latest technologies and building strong databases that handle their needs, I am also enthusiastic about web animations since I believe that it's the future of the web!! . 
  
  🔭 I’m planning for a Project **pingMeetPong**(platform that allows ping pong players to meet up).
 
