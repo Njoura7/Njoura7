@@ -4,7 +4,7 @@
 ---
 
 
-## I am a {software engineer} and a < Web developer />, passionate about creating friendly UI for users using the latest technologies and building strong databases that handle their needs, I am also enthusiastic about web animations since I believe that it's the future of the web!! . 
+## I am a {software engineer} and a < Web developer />,  I prioritize user satisfaction and system reliability, excelling in team collaboration and independent work. With strong communication skills, I  adapt to various environments, contributing positively to all projects. passionate about creating friendly UI for users using the latest technologies, I am also enthusiastic about web animations since I believe that it's the future of the web!! . 
  
  🔭 I’m working on a Project **pingMeetPong**(platform that allows ping pong players to meet up).
 
