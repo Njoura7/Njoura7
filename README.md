@@ -45,7 +45,7 @@
 <br/>
 
 ---
-![Profile views] <img src="https://img.shields.io/github/followers/Njoura7?label=Follow" style=" float:left, margin-right:10px" /> 
+<img src="https://img.shields.io/github/followers/Njoura7?label=Follow" style=" float:left, margin-right:10px" /> 
 ---
 
 ![Njoura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Njoura7&show_icons=true&theme=transparent)
