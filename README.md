@@ -43,29 +43,18 @@
 [<img align="left" alt="njoura LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
-<!-- Links: -->
-
----
-
-
-![Profile views](https://gpvc.arturio.dev/Njoura7)  <img src="https://img.shields.io/github/followers/Njoura7?label=Follow" style=" float:left, margin-right:10px" />
 
 ---
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Njoura7&show_icons=true&theme=transparent)
+---
+
+![Njoura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Njoura7&show_icons=true&theme=transparent)
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Njoura7&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-<!---
-### You can checkout my blogs :loudspeaker: 
-
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
--->
 
 
 ---
@@ -73,7 +62,7 @@
 
 
 [website]: https://njourawebdev.netlify.app/
+[linkedin]:https://www.linkedin.com/in/anas-mohamed-aziz-najjar-400672200/
 [twitter]: https://twitter.com/Njoura7
 [instagram]: https://www.instagram.com/web.dev_njoura/
-[linkedin]:https://www.linkedin.com/in/anas-mohamed-aziz-najjar-400672200/
 
