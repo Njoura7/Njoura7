@@ -51,7 +51,6 @@
 
 <!-- ![Njoura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Njoura7&show_icons=true&theme=transparent) -->
 
----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Njoura7&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
