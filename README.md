@@ -45,12 +45,12 @@
 
 ---
 
-<!-- <img src="https://img.shields.io/github/followers/Njoura7?label=Follow" style=" float:left, margin-right:10px" /> 
+<!-- <img src="https://img.shields.io/github/followers/Njoura7?label=Follow" style=" float:left, margin-right:10px" /> -->
 
- ![Njoura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Njoura7&show_icons=true&theme=transparent) -->
+ ![Njoura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Njoura7&show_icons=true&theme=transparent) 
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Njoura7&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Njoura7&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
 
